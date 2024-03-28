@@ -209,7 +209,7 @@ dt_items.AsEnumerable().Sum(Function(x) Convert.ToDouble(x.Field(Of Object)("id"
 
 
 
-# IEnu<DataRow>
+# IEnu - DataRow
 
 
 ```scala
