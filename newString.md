@@ -8,3 +8,15 @@ StingManipulation uipath-community  ([https://forum.uipath.com/t/how-to-manipula
 ```sh
 sbt clean coverage test
 ```
+
+# Removing Special Character  and keeping in the single line 
+```scala
+System.Text.RegularExpressions.Regex.Replace(strString, "[^a-zA-Z0-9]", " ")
+```
+# Example: 
+# Input: 
+Hello My@$%^&*               name@                              $%^&* is@$%^&* Mamunur ¬!£$@$%^&* Rushid
+Nezam £$$Uddin @$%^&*is 			a@$%^&* Good %^$%>,><Man >>><and 
+He @$%^&* is@$%^&*  ><>vary Helpfull Parsone@$%^&*
+# Output: 
+Hello My                     name                                     is       Mamunur            Rushid Nezam    Uddin       is    a       Good         Man     and  He        is           vary Helpfull Parsone
