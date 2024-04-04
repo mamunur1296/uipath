@@ -14,7 +14,7 @@ sbt clean coverage test
 ## Example:
 
 ### Input:
-Hello My@$%^&*               name@                              $%^&* is@$%^&* Mamunur ¬!£$@$%^&* Rushid
+##### Hello My@$%^&*               name@                              $%^&* is@$%^&* Mamunur ¬!£$@$%^&* Rushid
 
 Nezam £$$Uddin @$%^&*is 			a@$%^&* Good %^$%>,><Man >>><and 
 
@@ -28,3 +28,4 @@ System.Text.RegularExpressions.Regex.Replace(strString, "[^a-zA-Z0-9]", " ")
 Hello My                     name                                     is       Mamunur            Rushid Nezam    Uddin       is    a       Good         Man     and  He        is           vary Helpfull Parsone
 
 ======================================================================================
+
