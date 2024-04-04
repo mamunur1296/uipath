@@ -10,7 +10,6 @@ sbt clean coverage test
 ```
 
 # Removing Special Character  and keeping in the single line 
-# Example: 
 # Input: 
 Hello My@$%^&*               name@                              $%^&* is@$%^&* Mamunur ¬!£$@$%^&* Rushid
 Nezam £$$Uddin @$%^&*is 			a@$%^&* Good %^$%>,><Man >>><and 
