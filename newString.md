@@ -9,8 +9,11 @@ StingManipulation uipath-community  ([https://forum.uipath.com/t/how-to-manipula
 sbt clean coverage test
 ```
 
-# Removing Special Character  and keeping in the single line 
-# Input: 
+# Removing Special Characters and Keeping in a Single Line
+
+## Example
+
+### Input:
 Hello My@$%^&*               name@                              $%^&* is@$%^&* Mamunur ¬!£$@$%^&* Rushid
 Nezam £$$Uddin @$%^&*is 			a@$%^&* Good %^$%>,><Man >>><and 
 He @$%^&* is@$%^&*  ><>vary Helpfull Parsone@$%^&*
