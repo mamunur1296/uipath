@@ -23,8 +23,8 @@ sbt clean coverage test
 System.Text.RegularExpressions.Regex.Replace(strString, "[^a-zA-Z0-9]", " ")
 ```
 ### Output: 
-###### Hello My                     name                                     is       Mamunur            Rushid Nezam    Uddin       is    a       Good         Man     and  He        is           vary Helpfull Parsone
 
+###### Hello My                     name                                     is       Mamunur            Rushid Nezam    Uddin       is    a       Good         Man     and  He        is           vary Helpfull Parsone
 ======================================================================================
 
 ## Removing Special Character Tab and white spaces and keeping in the single line
@@ -41,6 +41,6 @@ System.Text.RegularExpressions.Regex.Replace(strString, "[^a-zA-Z0-9]", " ")
 System.Text.RegularExpressions.Regex.Replace(strString, "[^a-zA-Z0-9]+", " ")
 ```
 ### Output: 
-###### Hello My name is Mamunur Rushid Nezam Uddin is a Good Man and He is vary Helpfull Parsone###### and  He        is           vary Helpfull Parsone
+###### Hello My name is Mamunur Rushid Nezam Uddin is a Good Man and He is vary Helpfull Parsone
 
 ======================================================================================
