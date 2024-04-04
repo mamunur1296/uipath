@@ -9,7 +9,7 @@ StingManipulation uipath-community  ([https://forum.uipath.com/t/how-to-manipula
 sbt clean coverage test
 ```
 
-###### Removing Special Characters and Keeping in a Single Line
+### Removing Special Characters and Keeping in a Single Line
 
 ## Example:
 
@@ -31,7 +31,7 @@ Hello My                     name                                     is       M
 
 ======================================================================================
 
-###### Removing Special Character Tab and white spaces and keeping in the single line
+### Removing Special Character Tab and white spaces and keeping in the single line
 
 ## Example:
 
@@ -53,7 +53,7 @@ Hello My name is Mamunur Rushid Nezam Uddin is a Good Man and He is vary Helpful
 
 ======================================================================================
 
-###### Removing Special Character Tab and white spaces and keeping in the multi line
+### Removing Special Character Tab and white spaces and keeping in the multi line
 
 ## Example:
 
@@ -77,7 +77,7 @@ He is vary Helpfull Parsone
 
 ======================================================================================
 
-###### Removing Tab and all spaces and keeping in the single line
+### Removing Tab and all spaces and keeping in the single line
 
 ## Example:
 
@@ -99,7 +99,7 @@ HelloMy@$%^&*name@$%^&*is@$%^&*Mamunur¬!£$@$%^&*RushidNezam£$$Uddin@$%^&*isa@
 
 ======================================================================================
 
-###### Removing Tab and just white spaces and keeping in the single line
+### Removing Tab and just white spaces and keeping in the single line
 
 ## Example:
 
@@ -121,7 +121,7 @@ Hello My@$%^&* name@ $%^&* is@$%^&* Mamunur ¬!£$@$%^&* Rushid Nezam £$$Uddin 
 
 ======================================================================================
 
-###### Removing Tab and just  spaces and keeping in the multi line
+### Removing Tab and just  spaces and keeping in the multi line
 
 ## Example:
 
@@ -147,7 +147,7 @@ He@$%^&*is@$%^&*><>varyHelpfullParsone@$%^&*
 
 ======================================================================================
 
-###### Removing Tab and just white spaces and keeping in the multi line 
+### Removing Tab and just white spaces and keeping in the multi line 
 
 ## Example:
 
