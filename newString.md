@@ -10,9 +10,6 @@ sbt clean coverage test
 ```
 
 # Removing Special Character  and keeping in the single line 
-```scala
-System.Text.RegularExpressions.Regex.Replace(strString, "[^a-zA-Z0-9]", " ")
-```
 # Example: 
 # Input: 
 Hello My@$%^&*               name@                              $%^&* is@$%^&* Mamunur ¬!£$@$%^&* Rushid
