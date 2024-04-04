@@ -26,3 +26,5 @@ System.Text.RegularExpressions.Regex.Replace(strString, "[^a-zA-Z0-9]", " ")
 ```
 ### Output: 
 Hello My                     name                                     is       Mamunur            Rushid Nezam    Uddin       is    a       Good         Man     and  He        is           vary Helpfull Parsone
+
+======================================================================================
